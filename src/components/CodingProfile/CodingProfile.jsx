@@ -39,7 +39,7 @@ const CodingProfile = () => {
               </p>
               <a
                 className="text-blue-500 mb-4 pt-4 line-clamp-3"
-                href="https://www.codechef.com/users/ritik_raj23"
+                href={profile.profileLink}
               >
                 Visit Profile
               </a>
