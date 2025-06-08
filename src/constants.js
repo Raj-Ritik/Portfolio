@@ -29,7 +29,7 @@ import shantiNiketan from './assets/education_logo/ShantiNiketan.jpeg';
 import sunshine from './assets/education_logo/sunshine.png';
 
 // Project Section Logo's
-import vyapaarSetu from './assets/work_logo/vyapaarSetu.png';
+import vyapaarSetu from './assets/work_logo/VyapaarSetu.png';
 import samvaad from './assets/work_logo/samvaad.png';
 import indianTourism from './assets/work_logo/indianTourism.png';
 import weatherApp from './assets/work_logo/weatherApp.png';
