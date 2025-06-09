@@ -5,7 +5,7 @@ A clean, responsive personal portfolio website built to showcase my skills, proj
 ## Demo
 [Portfolio](https://portfolio-rose-omega-75.vercel.app/)
 
-##🚀 Tech Stack
+## 🚀 Tech Stack
 
 -**Frontend**: React.js
 
