@@ -30,6 +30,7 @@ import sunshine from './assets/education_logo/sunshine.png';
 
 // Project Section Logo's
 import vyapaarSetu from './assets/work_logo/VyapaarSetu.png';
+import YatraAI from './assets/work_logo/YatraAI.png';
 import samvaad from './assets/work_logo/samvaad.png';
 import indianTourism from './assets/work_logo/indianTourism.png';
 import weatherApp from './assets/work_logo/weatherApp.png';
@@ -128,6 +129,16 @@ export const projects = [
   },
   {
     id: 1,
+    title: "Yatra.AI",
+    description:
+      "Built a full-stack AI-based trip planning web application that generates personalized itineraries with hotel, place, and activity recommendations using Google APIs and GEMINI AI. Implemented Google Authentication for secure login, Firebase for data storage, and integrated Tailwind CSS with ShadCN UI for a modern responsive interface.",
+    image: YatraAI,
+    tags: ["HTML", "CSS", "JavaScript", "Tailwind", "React JS", "Shadcn", "API", "Firebase", "GEMINI AI", "GOOGLE APIs"],
+    github: "https://github.com/Raj-Ritik/Yatra.AI",
+    webapp: "https://yatra-ai-three.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Samvaad",
     description:
       "Samvaad / Chat App project is a real-time messaging application built using the MERN stack (MongoDB, Express, React, Node.js) with Socket.io for instant communication. It features a modern UI designed with TailwindCSS and Daisy UI, ensuring a sleek and responsive user experience.",
@@ -137,7 +148,7 @@ export const projects = [
     webapp: "https://chat-app-3-zw9q.onrender.com/login",
   },
   {
-    id: 2,
+    id: 3,
     title: "Indian-Tourism",
     description:
       "The web app is a responsive and visually appealing website showcasing the rich cultural heritage of India. It highlights the country's UNESCO World Heritage sites, festivals, regional cuisine and it offers an interactive gallery, includes modern web features such as a sticky navigation bar, typewriter animations, and carousel sliders.",
@@ -147,7 +158,7 @@ export const projects = [
     webapp: "https://raj-ritik.github.io/Indian-Tourism/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Weather-App",
     description:
       "The web app is a responsive and visually appealing website showcasing the rich cultural heritage of India. It highlights the country's UNESCO World Heritage sites, festivals, regional cuisine and it offers an interactive gallery, includes modern web features such as a sticky navigation bar, typewriter animations, and carousel sliders.",
@@ -157,7 +168,7 @@ export const projects = [
     webapp: "https://raj-ritik.github.io/Weather_webApp/",
   },
   {
-    id: 4,
+    id: 5,
     title: "To-Do App",
     description:
       "The weather app build by me provides current weather conditions. Users can search for a location by city name, and the app displays the temperature, humidity, wind speed.The app display the climate images based on the weather condition , humidity and wind speed. The app provide a simple and clean user friendly interface. ",
