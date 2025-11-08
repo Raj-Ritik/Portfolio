@@ -125,7 +125,7 @@ export const projects = [
     image: vyapaarSetu,
     tags: ["HTML", "CSS", "JavaScript", "Tailwind", "React JS", "Redux", "API", "Node.js", "MongoDB", "Express"],
     github: "https://github.com/Raj-Ritik/E-commerce",
-    webapp: "https://e-commerce-frontend-95pn.onrender.com/",
+    webapp: "https://e-commerce-vg1x.vercel.app/",
   },
   {
     id: 1,
